@@ -1,1 +1,2 @@
-VimCrypt~03!*9mн¬[s=™%ЭnФќјтЇ*NН!·j·*‹Щт–|ЉAb#вТ")6нfЙЉc—‰w·Ћ
+#!/bin/bash
+echo $((BREATH ** LOVE))
